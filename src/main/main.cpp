@@ -11,7 +11,7 @@ int main(int argc, char** argv)
 
     for (int i = 0; i < argc; ++i)
     {
-        std::cout << "    argv[" << i << "]: " << argv[i] << "\n";
+        std::cout << "argv[" << i << "]: " << argv[i] << "\n";
     }
 
     // get number of random verses to print

@@ -2,7 +2,7 @@ name: ino-dev CI
 
 on:
   push:
-    branches: [ "ino_dev" ]
+    branches: [ "ino-dev" ]
   workflow_dispatch:
 
 jobs:
