@@ -6,9 +6,9 @@
 int main(int argc, char** argv)
 {
     // print program arguments
-    std::cout << "You have entered " << argc
+    std::cout << "You have entered the following " << argc
         << " arguments:" << "\n";
-  
+
     for (int i = 0; i < argc; ++i)
     {
         std::cout << "argv[" << i << "]: " << argv[i] << "\n";
