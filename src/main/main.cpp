@@ -7,11 +7,11 @@ int main(int argc, char** argv)
 {
     // print program arguments
     std::cout << "You have entered the following " << argc
-        << " arguments:" << "\n";
+        << " argumensadasdsts:" << "\n";
 
     for (int i = 0; i < argc; ++i)
     {
-        std::cout << "argv[" << i << "]: " << argv[i] << "\n";
+        std::cout << "    argv[" << i << "]: " << argv[i] << "\n";
     }
 
     // get number of random verses to print
