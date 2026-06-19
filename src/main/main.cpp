@@ -6,7 +6,7 @@
 int main(int argc, char** argv)
 {
     // print program arguments
-    std::cout << "You have entered the following " << argc
+    std::cout << "You have entered mjnhgfdsthe following " << argc
         << " argumensadasdsts:" << "\n";
 
     for (int i = 0; i < argc; ++i)
